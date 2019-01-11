@@ -1,6 +1,7 @@
 //basic example of async and await (ES8), 
 //here's the library of 'events' 
-// using 68 colums of nested callback hell! 
+// using 150 columns of nested callback hell!!!!
+//yo dawg, I heard you like callbacks!
 
 const buildingWeapon = () => {
     return new Promise((resolve, reject)=> {
